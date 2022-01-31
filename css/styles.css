@@ -1,0 +1,21 @@
+div {color: black;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 30px;
+font-weight: 800;}
+
+.title
+{font-size: 39px;
+    font-family: Arial, Helvetica, sans-serif;
+color:rgb(68, 68, 110)}
+
+.smoothie
+{background-color: orange;
+}
+
+.pancake
+{background-color: yellowgreen;}
+
+
+.toast {
+    background-color:powderblue;
+}
